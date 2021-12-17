@@ -5,7 +5,15 @@ Generation**<br>
 > Sivakanth Gopi, Pankaj Gulhane, Janardhan Kulkarni, Judy Hanwen Shen,
 Milad Shokouhi, and Sergey Yekhanin<br>
 > https://arxiv.org/abs/2002.09745
->
+
+Published as 
+
+> Sivakanth Gopi, Pankaj Gulhane, Janardhan Kulkarni, Judy Hanwen Shen, Milad Shokouhi, and Sergey Yekhanin. 2021. "Differentially Private Set Union." *Journal of Privacy and Confidentiality* Vol 11(3). https://doi.org/10.29012/jpc.780
+
+Archived as 
+
+> Sivakanth Gopi, Pankaj Gulhane, Janardhan Kulkarni, Judy Hanwen Shen, Milad Shokouhi, and Sergey Yekhanin. 2021. "Code for: Differentially Private Set Union." Zenodo. 
+
 > **Abstract:** *We study the basic operation of set union in the global model of differential privacy. In this problem, we are given a universe U of items, possibly of infinite size, and a database D of users. Each user i contributes a subset W_i of items. We want an (epsilon, delta)-differentially private Algorithm which outputs a subset S (a union of subsets W_i) such that the size of S is as large as possible. The problem arises in countless real world applications, and is particularly ubiquitous in natural language processing (NLP) applications. For example, discovering words, sentences, n-grams etc., from private text data belonging to users is an instance of the set union problem. In this paper we design new algorithms for this problem that significantly outperform the best known algorithms.*
 
 ## Prerequisites
